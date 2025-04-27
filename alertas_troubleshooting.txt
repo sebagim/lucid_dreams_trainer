@@ -4,4 +4,5 @@ Verifica que el volumen multimedia esté alto.
 Desactiva restricciones de ejecución en segundo plano.
 Revisa que el modo "No molestar" esté desactivado.
 Mantén la app minimizada para que las notificaciones funcionen.
+Para garantizar que las alertas nocturnas suenen incluso si tu celular está en silencio, asegúrate de permitir el sonido de alarmas en tu configuración de No Molestar.
 Si lo deseas puedes programar tus propias alarmas pero nuestra guía de reality checks te ayuda a lograr sueños lúcidos más fácilmente. Si usas tus propias alarmas, te perderás esta ventaja..
