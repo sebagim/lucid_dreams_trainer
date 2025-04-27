@@ -3,3 +3,4 @@ Permite notificaciones en segundo plano para la app.
 Verifica que el volumen multimedia esté alto.
 Desactiva restricciones de ejecución en segundo plano.
 Revisa que el modo "No molestar" esté desactivado.
+Fijate que tengas el celular prendido.
