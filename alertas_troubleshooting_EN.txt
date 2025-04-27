@@ -3,4 +3,5 @@ Allow background notifications for the app.
 Ensure your device’s media volume is high.
 Disable background execution restrictions.
 Keep the app minimized for notifications to work.
+To ensure nighttime alerts sound even when your phone is silenced, make sure to allow alarm sounds in your Do Not Disturb settings.
 If you prefer, you can set your own alarms - but our reality check guide makes achieving lucid dreams much easier. By using your own alarms, you'll miss out on this advantage.
