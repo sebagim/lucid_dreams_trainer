@@ -1,2 +1,2 @@
-English_EN
-Español_ES
+EN=English
+ES=Español
