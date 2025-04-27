@@ -6,3 +6,4 @@ btnDreamJournal=Dream Journal
 btnStatistics=Statistics
 btnLibrary=Library
 btnSelectLanguage=Select Language
+wizzardTextOnHome=I will guide you
