@@ -1,0 +1,3 @@
+sleep_warning_title=Precaución
+sleep_warning_text=Advertencia: las alertas nocturnas pueden interrumpir tu sueño. Si notas que afectan tu descanso, prueba ajustar el volumen de las alertas o seleccionar un sonido más suave y menos intrusivo.
+ok=Entendido
