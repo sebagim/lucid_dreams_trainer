@@ -1,0 +1,3 @@
+sleep_warning_title=Warning
+sleep_warning_text=Warning: Nighttime alerts may interrupt your sleep. If you notice they affect your rest, try adjusting the alert volume or selecting a softer, less intrusive sound.Advertencia: las alertas nocturnas pueden interrumpir tu sueño. Si notas que afectan tu descanso, prueba ajustar el volumen de las alertas o seleccionar un sonido más suave y menos intrusivo.
+ok=Ok
