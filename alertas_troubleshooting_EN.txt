@@ -2,3 +2,4 @@ Make sure battery optimization is disabled for the app.
 Allow background notifications for the app.
 Ensure your device’s media volume is high.
 Disable background execution restrictions.
+Keep the app minimized for notifications to work.
