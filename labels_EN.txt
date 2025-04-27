@@ -1,9 +1,9 @@
-sleep_warning_title=Warning
-sleep_warning_text=Warning: Nighttime alerts may interrupt your sleep. If you notice they affect your rest, try adjusting the alert volume or selecting a softer, less intrusive sound.
-ok=Ok
 btnReminders=Reminders
 btnDreamJournal=Dream Journal
 btnStatistics=Statistics
 btnLibrary=Library
 btnSelectLanguage=Select Language
 wizzardTextOnHome=I will guide you
+sleep_warning_title=Warning
+sleep_warning_text=Warning: Nighttime alerts may interrupt your sleep. If you notice they affect your rest, try adjusting the alert volume or selecting a softer, less intrusive sound.
+ok=Ok
